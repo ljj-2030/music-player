@@ -15,4 +15,5 @@ music-client.zip  是前台的前端代码，下载后npm init  安装一下依�
 music.sql  是数据库文件。
 
 还有用到的数据文件，图片音乐等资源，在网盘
-
+链接：https://pan.baidu.com/s/1-Q2OUDzlGWslw8eGqYMIKA 
+提取码：whbu
